@@ -1,0 +1,16 @@
+..\obj\jidianqi.o: ..\HARDWARE\jidainqi\JiDianQi.c
+..\obj\jidianqi.o: ..\HARDWARE\jidainqi\JiDianQi.h
+..\obj\jidianqi.o: ..\SYSTEM\sys\sys.h
+..\obj\jidianqi.o: ..\USER\stm32f10x.h
+..\obj\jidianqi.o: ..\CORE\core_cm3.h
+..\obj\jidianqi.o: D:\51\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\jidianqi.o: ..\USER\system_stm32f10x.h
+..\obj\jidianqi.o: ..\USER\stm32f10x_conf.h
+..\obj\jidianqi.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\jidianqi.o: ..\USER\stm32f10x.h
+..\obj\jidianqi.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\jidianqi.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\jidianqi.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\jidianqi.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\jidianqi.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\jidianqi.o: ..\STM32F10x_FWLib\inc\misc.h
